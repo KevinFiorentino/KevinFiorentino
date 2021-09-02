@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Kevin!</h1>
+<h1 align="center">Hi 👋, I'm Kevin!</h1>
 <h3 align="center">A degree in Information Systems and full stack developer Javascript</h3>
 
 <p align="center">
