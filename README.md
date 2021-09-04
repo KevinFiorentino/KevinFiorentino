@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin!</h1>
-<h3 align="center">A degree in Information Systems and full stack developer Javascript</h3>
+<h3 align="center">A degree in Information Systems and full stack developer</h3>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
@@ -9,14 +9,19 @@
 <h3 align="left">Technologies, Tools and Programming Languages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+  <img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
   <img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
   <img src="https://img.shields.io/badge/nodejs-68a063?style=for-the-badge&logo=javascript&logoColor=white" alt="nodejs">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <br>
+  <img src="https://img.shields.io/badge/ibm%20watson-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson">
+  <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
 <h3>Stats</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfiorentino&theme=dark" alt="langs">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinfiorentino&show_icons=true&theme=dark" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kevinfiorentino&theme=dark" alt="wakatime">
 </p>
