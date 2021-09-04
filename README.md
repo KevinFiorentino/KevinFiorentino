@@ -1,7 +1,8 @@
 <!-- Hex colors https://colorswall.com/search || https://brandcolors.net/ -->
 
 <h1 align="center">Hi 👋, I'm Kevin!</h1>
-<h3 align="center">A degree in Information Systems and full stack developer</h3>
+<h3 align="center">A degree in Information Systems and software enginner</h3>
+<p><a href="http://www.unla.edu.ar/" target="_blank" alt="National University of Lanus">National University of Lanús</a>, Buenos Aires, Argentina</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
