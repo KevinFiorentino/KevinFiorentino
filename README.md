@@ -33,7 +33,7 @@
 
 <h3>Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfiorentino&theme=dark" alt="langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinfiorentino&show_icons=true&theme=dark" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfiorentino&theme=dark&hide=php,html,jupyter%20notebook&count_private=true&show_icons=true" alt="langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinfiorentino&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kevinfiorentino&theme=dark" alt="wakatime">
 </p>
