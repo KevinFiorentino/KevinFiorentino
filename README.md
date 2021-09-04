@@ -1,3 +1,5 @@
+<!-- Hex colors https://colorswall.com/search || https://brandcolors.net/ -->
+
 <h1 align="center">Hi 👋, I'm Kevin!</h1>
 <h3 align="center">A degree in Information Systems and full stack developer</h3>
 
@@ -12,7 +14,9 @@
   <img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
   <img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
   <img src="https://img.shields.io/badge/nodejs-68a063?style=for-the-badge&logo=javascript&logoColor=white" alt="nodejs">
+  <img src="https://img.shields.io/badge/nestjs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs">
   <br>
+  <img src="https://img.shields.io/badge/heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/ibm%20watson-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson">
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
