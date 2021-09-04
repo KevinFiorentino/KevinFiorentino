@@ -17,6 +17,6 @@
 
 <h3>Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfiorentino&theme=cobalt" alt="langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinfiorentino&show_icons=true&theme=cobalt" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfiorentino&theme=dark" alt="langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinfiorentino&show_icons=true&theme=dark" alt="stats">
 </p>
