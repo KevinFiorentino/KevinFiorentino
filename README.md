@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kevin!</h1>
 <h3 align="center">A degree in Information Systems and software engineer</h3>
 <p align="center">
-  <a href="http://www.unla.edu.ar/" target="_blank" alt="National University of Lanus">National University of Lanús</a>, Buenos Aires, Argentina
+  <a href="http://www.unla.edu.ar/" target="_blank" alt="National University of Lanus">Universidad Nacional de Lanús</a>, Buenos Aires, Argentina
 </p>
 
 <p align="center">
