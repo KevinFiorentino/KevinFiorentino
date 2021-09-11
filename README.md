@@ -26,9 +26,10 @@
   <img src="https://img.shields.io/badge/mongodb-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
   <img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
   <br>
+  <img src="https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/ibmcloud-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson">
+  <img src="https://img.shields.io/badge/ibmcloud-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud">
 </p>
 
 <h3>Stats</h3>
