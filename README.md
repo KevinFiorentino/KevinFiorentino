@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinfiorentino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+    <a href="https://platzi.com/p/KevinFiorentino/"><img src="https://img.shields.io/badge/platzi-7fc719?style=for-the-badge&logo=platzi&logoColor=white" alt="platzi"></a>
 </p>
   
 <h3 align="left">Technologies, Tools and Programming Languages</h3>
