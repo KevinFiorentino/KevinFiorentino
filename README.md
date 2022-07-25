@@ -24,7 +24,7 @@
   <br>
   <img src="https://img.shields.io/badge/mongodb-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
   <img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  <img src="  https://img.shields.io/badge/elasticsearch-24bbb1?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch">
+  <img src="https://img.shields.io/badge/elasticsearch-24bbb1?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch">
   <br>
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
