@@ -18,9 +18,15 @@
   <img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
   <img src="https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=white" alt="react">
   <br>
-  <img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity">
-  <img src="https://img.shields.io/badge/rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" alt="rust">
   <img src="https://img.shields.io/badge/nodejs-68a063?style=for-the-badge&logo=javascript&logoColor=white" alt="nodejs">
+  <img src="https://img.shields.io/badge/rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" alt="rust">
+  <img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" alt="php">
+  <br>
+  <img src="https://img.shields.io/badge/ethereum-9e70be?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum">
+  <img src="https://img.shields.io/badge/web3.js-ef6830?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js">
+  <img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity">
+  <img src="https://img.shields.io/badge/infura-ff6b4a?style=for-the-badge&logo=infura&logoColor=white" alt="infura">
+  <img src="https://img.shields.io/badge/ipfs-041727?style=for-the-badge&logo=ipfs&logoColor=white" alt="ipfs">
   <br>
   <img src="https://img.shields.io/badge/mongodb-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
   <img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
