@@ -25,7 +25,7 @@
 
 | Blockchain |
 | ------------- |
-| <img src="https://img.shields.io/badge/ethereum-9e70be?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum"><img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity"><img src="https://img.shields.io/badge/web3.js-ef6830?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js"><img src="https://img.shields.io/badge/ipfs-041727?style=for-the-badge&logo=ipfs&logoColor=white" alt="ipfs"><img src="https://img.shields.io/badge/infura-ff6b4a?style=for-the-badge&logo=infura&logoColor=white" alt="infura"> |
+| <img src="https://img.shields.io/badge/ethereum-9e70be?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum"><img src="https://img.shields.io/badge/solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="solana"><img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity"><img src="https://img.shields.io/badge/web3.js-ef6830?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3.js"><img src="https://img.shields.io/badge/ipfs-041727?style=for-the-badge&logo=ipfs&logoColor=white" alt="ipfs"><img src="https://img.shields.io/badge/infura-ff6b4a?style=for-the-badge&logo=infura&logoColor=white" alt="infura"> |
 
 | Infra | DDBB |
 | ------------- | ------------- |
