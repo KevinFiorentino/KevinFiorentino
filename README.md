@@ -33,7 +33,7 @@
 | ------------- |
 | <img src="https://www.kevfiorentino.com/tech/solana.webp" alt="solana" width="50"><img src="https://www.kevfiorentino.com/tech/ethereum.webp" alt="ethereum" width="35" height="50"><img src="https://www.kevfiorentino.com/tech/ipfs.webp" alt="ipfs" width="50"> |
 
-| Infra | DDBB |
+| Infrastructure | DDBB |
 | ------------- | ------------- |
 | <img src="https://www.kevfiorentino.com/tech/docker.webp" alt="Docker" width="70"><img src="https://www.kevfiorentino.com/tech/apache.webp" alt="Apache" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/nginx.webp" alt="NGINX" width="70"><img src="https://www.kevfiorentino.com/tech/heroku.webp" alt="Heroku" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/ibm-cloud.webp" alt="IBM Cloud" width="50"><img src="https://www.kevfiorentino.com/tech/firebase.webp" alt="Firebase" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/linode.webp" alt="Linode" width="50"> | <img src="https://www.kevfiorentino.com/tech/mongodb.webp" alt="mongodb" width="30" height="50"><img src="https://www.kevfiorentino.com/tech/mysql.webp" alt="mysql" width="50"><img src="https://www.kevfiorentino.com/tech/elasticsearch.webp" alt="elasticsearch" width="50"> |
 
