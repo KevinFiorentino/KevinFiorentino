@@ -14,28 +14,28 @@
 <img src="https://img.shields.io/badge/website-2596BE?style=for-the-badge&logo=dev.to&logoColor=white" alt="Personal website">
 </a>
 <a href="https://twitter.com/Kevfiorentino">
-<img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X">
+<img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X">
 </a>
 <a href="https://platzi.com/p/KevinFiorentino/">
 <img src="https://img.shields.io/badge/platzi-7fc719?style=for-the-badge&logo=platzi&logoColor=white" alt="platzi">
 </a>
 </p>
   
-<h3 align="left">Technologies, tools and programming languages</h3>
+<h3 align="left">My six-year career knowledge went through</h3>
 
 <div align="center">
 
 | Front-end | Backend |
 | ------------- | ------------- |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"><img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"><img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="angular"><img src="https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=white" alt="react">  | <img src="https://img.shields.io/badge/nodejs-68a063?style=for-the-badge&logo=javascript&logoColor=white" alt="nodejs"><img src="https://img.shields.io/badge/rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" alt="rust"><img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" alt="php"> |
+| <img src="https://www.kevfiorentino.com/tech/javascript.webp" alt="javascript" width="50"><img src="https://www.kevfiorentino.com/tech/typescript.webp" alt="typescript" width="50"><img src="https://www.kevfiorentino.com/tech/angular.webp" alt="angular" width="50"><img src="https://www.kevfiorentino.com/tech/react.webp" alt="react" width="50">  | <img src="https://www.kevfiorentino.com/tech/nodejs.webp" alt="nodejs" width="70"><img src="https://www.kevfiorentino.com/tech/rust.webp" alt="rust" width="50"><img src="https://www.kevfiorentino.com/tech/php.webp" alt="php" width="70"><img src="https://www.kevfiorentino.com/tech/solidity.webp" alt="solidity" width="40" height="50"> |
 
-| Blockchain |
+| Blockchain & Web3 |
 | ------------- |
-| <img src="https://img.shields.io/badge/ethereum-9e70be?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum"><img src="https://img.shields.io/badge/solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="solana"><img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity"><img src="https://img.shields.io/badge/web3-ef6830?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3"><img src="https://img.shields.io/badge/ipfs-041727?style=for-the-badge&logo=ipfs&logoColor=white" alt="ipfs"> |
+| <img src="https://www.kevfiorentino.com/tech/solana.webp" alt="solana" width="50"><img src="https://www.kevfiorentino.com/tech/ethereum.webp" alt="ethereum" width="35" height="50"><img src="https://www.kevfiorentino.com/tech/ipfs.webp" alt="ipfs" width="50"> |
 
 | Infra | DDBB |
 | ------------- | ------------- |
-| <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><img src="https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"><img src="https://img.shields.io/badge/heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"><img src="https://img.shields.io/badge/ibmcloud-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud"> | <img src="https://img.shields.io/badge/mongodb-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"><img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"><img src="https://img.shields.io/badge/elasticsearch-24bbb1?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch"> |
+| <img src="https://www.kevfiorentino.com/tech/docker.webp" alt="Docker" width="70"><img src="https://www.kevfiorentino.com/tech/apache.webp" alt="Apache" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/nginx.webp" alt="NGINX" width="70"><img src="https://www.kevfiorentino.com/tech/heroku.webp" alt="Heroku" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/ibm-cloud.webp" alt="IBM Cloud" width="50"><img src="https://www.kevfiorentino.com/tech/firebase.webp" alt="Firebase" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/linode.webp" alt="Linode" width="50"> | <img src="https://www.kevfiorentino.com/tech/mongodb.webp" alt="mongodb" width="30" height="50"><img src="https://www.kevfiorentino.com/tech/mysql.webp" alt="mysql" width="50"><img src="https://www.kevfiorentino.com/tech/elasticsearch.webp" alt="elasticsearch" width="50"> |
 
 </div>
 
