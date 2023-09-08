@@ -21,7 +21,7 @@
 </a>
 </p>
   
-<h3 align="left">My six-year career knowledge went through</h3>
+<h3 align="center">My six-year career knowledge went through</h3>
 
 <div align="center">
 
