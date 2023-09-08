@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/platzi-7fc719?style=for-the-badge&logo=platzi&logoColor=white" alt="platzi">
 </a>
 </p>
+
+<hr>
   
 <h3 align="center">My six-year career knowledge went through</h3>
 
