@@ -1,7 +1,7 @@
 <!-- Hex colors https://colorswall.com/search || https://brandcolors.net/ -->
 
 <h1 align="center">Hi, I'm Kev! —△🌈</h1>
-<h3 align="center">Javascript Engineer | Blockchain & Web3 | Graduate in Systems</h3>
+<h3 align="center">Javascript Engineer | Graduate in Systems</h3>
 <p align="center">
   <a href="http://www.unla.edu.ar/" target="_blank" alt="National University of Lanus">Universidad Nacional de Lanús</a>, Buenos Aires, Argentina
 </p>
