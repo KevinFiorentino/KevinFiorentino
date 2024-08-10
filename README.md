@@ -1,7 +1,7 @@
 <!-- Hex colors https://colorswall.com/search || https://brandcolors.net/ -->
 
 <h1 align="center">Hi, I'm Kev! —△🌈</h1>
-<h3 align="center">Software Engineer | Graduate in Systems</h3>
+<h3 align="center">Solutions Architect | Bachelor's in Information Systems</h3>
 <p align="center">
   Buenos Aires, Argentina
 </p>
@@ -23,7 +23,7 @@
 
 <hr>
   
-<h3 align="center">My six-year career knowledge went through</h3>
+<h3 align="center">My seven-year career knowledge went through</h3>
 
 <div align="center">
 
