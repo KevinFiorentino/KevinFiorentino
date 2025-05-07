@@ -10,11 +10,8 @@
 <a href="https://www.linkedin.com/in/kevinfiorentino/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
-<a href="https://www.kevfiorentino.com/en">
+<a href="https://www.kevfiorentino.com/">
 <img src="https://img.shields.io/badge/website-2596BE?style=for-the-badge&logo=dev.to&logoColor=white" alt="Personal website">
-</a>
-<a href="https://twitter.com/Kevfiorentino">
-<img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X">
 </a>
 <a href="https://platzi.com/p/KevinFiorentino/">
 <img src="https://img.shields.io/badge/platzi-7fc719?style=for-the-badge&logo=platzi&logoColor=white" alt="platzi">
