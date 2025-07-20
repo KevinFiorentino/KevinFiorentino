@@ -1,7 +1,7 @@
 <!-- Hex colors https://colorswall.com/search || https://brandcolors.net/ -->
 
 <h1 align="center">Hi, I'm Kev! —△🌈</h1>
-<h3 align="center">Software Engineer | Bachelor's in Information Systems</h3>
+<h3 align="center">Software Architect | Bachelor's in Information Systems</h3>
 <p align="center">
   Buenos Aires, Argentina
 </p>
@@ -19,32 +19,3 @@
 </p>
 
 <hr>
-
-<!--
-<h3 align="center">My seven-year career knowledge went through</h3>
-
-<div align="center">
-
-| Front-end | Backend |
-| ------------- | ------------- |
-| <img src="https://www.kevfiorentino.com/tech/javascript.webp" alt="javascript" width="50"><img src="https://www.kevfiorentino.com/tech/typescript.webp" alt="typescript" width="50"><img src="https://www.kevfiorentino.com/tech/angular.webp" alt="angular" width="50"><img src="https://www.kevfiorentino.com/tech/react.webp" alt="react" width="50">  | <img src="https://www.kevfiorentino.com/tech/nodejs.webp" alt="nodejs" width="70"><img src="https://www.kevfiorentino.com/tech/rust.webp" alt="rust" width="50"><img src="https://www.kevfiorentino.com/tech/php.webp" alt="php" width="70"><img src="https://www.kevfiorentino.com/tech/solidity.webp" alt="solidity" width="40" height="50"> |
-
-| Blockchain & Web3 |
-| ------------- |
-| <img src="https://www.kevfiorentino.com/tech/solana.webp" alt="solana" width="50"><img src="https://www.kevfiorentino.com/tech/ethereum.webp" alt="ethereum" width="35" height="50"><img src="https://www.kevfiorentino.com/tech/ipfs.webp" alt="ipfs" width="50"> |
-
-| Infrastructure | DDBB |
-| ------------- | ------------- |
-| <img src="https://www.kevfiorentino.com/tech/docker.webp" alt="Docker" width="70"><img src="https://www.kevfiorentino.com/tech/apache.webp" alt="Apache" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/nginx.webp" alt="NGINX" width="70"><img src="https://www.kevfiorentino.com/tech/heroku.webp" alt="Heroku" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/ibm-cloud.webp" alt="IBM Cloud" width="50"><img src="https://www.kevfiorentino.com/tech/firebase.webp" alt="Firebase" width="40" height="50"><img src="https://www.kevfiorentino.com/tech/linode.webp" alt="Linode" width="50"> | <img src="https://www.kevfiorentino.com/tech/mongodb.webp" alt="mongodb" width="30" height="50"><img src="https://www.kevfiorentino.com/tech/mysql.webp" alt="mysql" width="50"><img src="https://www.kevfiorentino.com/tech/elasticsearch.webp" alt="elasticsearch" width="50"> |
-
-</div>
--->
-
-<!--
-<h3>Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfiorentino&theme=dark&hide=php,html,jupyter%20notebook&count_private=true&show_icons=true" alt="langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinfiorentino&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kevinfiorentino&theme=dark" alt="wakatime">
-</p>
--->
